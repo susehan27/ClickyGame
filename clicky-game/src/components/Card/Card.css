@@ -1,0 +1,17 @@
+.card {
+    padding: 10px;
+    margin: 15px;
+    float: left;
+};
+
+.img-container {
+    max-width: 300px;
+    max-height: 300px;
+    overflow: hidden;
+}
+
+img {
+    object-fit: cover;
+    width: 150px;
+    height: 150px;
+}

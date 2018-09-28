@@ -1,0 +1,18 @@
+.header {
+    padding: 20px;
+    background-color: orange;
+    margin: auto;
+}
+
+.title {
+    text-align: center;
+
+}
+
+.scores {
+    text-align: center;
+}
+
+.guess {
+    text-align: center;
+}
